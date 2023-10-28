@@ -1,0 +1,25 @@
+*   {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #b4c0d4, #689bed)
+    
+
+}
+h1 {
+    text-align: center;
+    font-size: 100;
+} 
+canvas {
+    border-style: solid;
+    border-color: black;
+    border-width: 5;
+}
+.wzor {
+    text-align: left;
+    border-width: 2;
+    border-style: dotted;
+    width: 350;
+}
